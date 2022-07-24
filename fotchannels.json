@@ -38,5 +38,21 @@
 "channelName":"Mahar Bawdi",
 "link": "https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",
 "img":"http://static.pyoneplay.com/static/live/li_bg_1557296214.jpg"
+},
+{
+"channelName":"Baby TV",
+"link": "https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",
+"img":"https://static.wikia.nocookie.net/logopedia/images/2/21/LogoBabyTV-2021-MAIN_logo.png/revision/latest/scale-to-width-down/1200?cb=20210422144418"
+}
+  ,
+{
+"channelName":"Baby TV",
+"link": "https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8",
+"img":",
+{
+"channelName":"Cinemax",
+"link": "http://vips-livecdn.fptplay.net:80/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8",
+"img":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png"
+}"
 }
 ]
