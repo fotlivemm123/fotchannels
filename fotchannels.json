@@ -42,12 +42,12 @@
 {
 "channelName":"Baby TV",
 "link": "https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8",
-"img":"https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8"
+"img":"https://i.ytimg.com/vi/30n1rkxk0SQ/maxresdefault.jpg"
 },
 {
 "channelName":"Cinemax",
 "link": "http://vips-livecdn.fptplay.net:80/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8",
-"img":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png"
+"img":"https://www.kindpng.com/picc/m/287-2873744_cinemax-logo-png-transparent-png.png"
 },
 {
 "channelName":"Star Movies HD",
@@ -57,7 +57,7 @@
 {
 "channelName":"Star World HD",
 "link": "http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8",
-"img":"http://221.120.204.4/star-world-LOCKLE/index.m3u8"
+"img":"https://ewsat.com/img/STAR_WORLD.png"
 }
 
 ]
