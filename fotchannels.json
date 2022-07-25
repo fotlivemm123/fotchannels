@@ -31,6 +31,16 @@
 "img":"https://www.fite.tv/static/img/home_fite_tw_bg_02.jpg"
 },
 {
+"channelName":"Fightsport",
+"link": "https://shls-fight-sports-ak.akamaized.net:443/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_1.m3u8",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg203DmMHGih6jksCHhZCG4wqBPIWzACsqdA&usqp=CAU"
+},
+{
+"channelName":"Tennis",
+"link": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiyCDCmmO1V87IRk6-p9dINmwDuTmqcKyAcg&usqp=CAU"
+},
+{
 "channelName":"FIght Sport",
 "link": "https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8",
 "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTZA7AGKLVtENn45qStuzKz0Z4Tmnq-NUokQ&usqp=CAU"
