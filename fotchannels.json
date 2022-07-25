@@ -4,11 +4,7 @@
 "link": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
 "img":"https://image.roku.com/developer_channels/prod/88e508b20c4ec250fe8142c0f02f27d98958d9247f75710a22343e573ffe9c19.png"
 },
-{
-"channelName":"BARCELONA TV",
-"link": "http://93.152.174.144:4000/play/barcatv/89535124.m3u8",
-"img":"https://i.pinimg.com/originals/8f/6d/73/8f6d733872856c6f1fd9452d6ee6e896.jpg"
-},
+
 {
 "channelName":"FIght Sport",
 "link": "https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8",
