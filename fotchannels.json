@@ -61,6 +61,11 @@
 "img":"https://www.kindpng.com/picc/m/287-2873744_cinemax-logo-png-transparent-png.png"
 },
 {
+"channelName":"MVM",
+"link": "https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/plalist.m3u8",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTY7OsIsec7dHx1sc6YJmY9Mb_yJOKHrOhyQ&usqp=CAU"
+},
+{
 "channelName":"Star Movies HD",
 "link": "http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8",
 "img":"https://content.osn.com/bob/745x419/STM.jpg"
