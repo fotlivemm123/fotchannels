@@ -120,6 +120,26 @@
 "channelName":"Sony Ten 3",
 "link": "http://103.139.171.5:5001/jiotvplus/live.php?c=Ten_3&q=800&e=.m3u8",
 "img":"https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png/revision/latest?cb=20190322144135"
+},
+{
+"channelName":"BBC News",
+"link": "https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8",
+"img":"http://thutalive.webstarterz.com/thutalive/images/channel/35350_BBC News.jpg"
+},
+{
+"channelName":"CINEMAX",
+"link": "http://vips-livecdn.fptplay.net:80/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8",
+"img":"http://thutalive.webstarterz.com/thutalive/images/channel/27270_Cinemax.jpg"
+},
+{
+"channelName":"BT Sport 1 HD",
+"link": "http://93.152.174.144:4000/play/btsport1/index.m3u8",
+"img":"http://thutalive.webstarterz.com/thutalive/images/channel/46192_BT 1 HD.png"
+},
+{
+"channelName":"BT Sport 2 HD",
+"link": "http://93.152.174.144:4000/play/btsport2/index.m3u8",
+"img":"http://thutalive.webstarterz.com/thutalive/images/channel/51706_BT sport 2.png"
 }
 
 ]
