@@ -5,47 +5,6 @@
 "img":"https://image.roku.com/developer_channels/prod/88e508b20c4ec250fe8142c0f02f27d98958d9247f75710a22343e573ffe9c19.png"
 },
 {
-"channelName":"BEIN Sports 1",
-"link": "http://93.152.174.144:4000/play/bein1ar/index.m3u8",
-"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa6RNerKH5LqulRrqTtbakBVFHVColJ7kgLw&usqp=CAU"
-},
-
-{
-"channelName":"Bein Sport2",
-"link": "http://93.152.174.144:4000/play/bein2fr/index.m3u8",
-"img":"https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest/scale-to-width-down/250?cb=20200107203903"
-},
-{
-"channelName":"Bein Sport3",
-"link": "http://93.152.174.144:4000/play/bein3ar/index.m3u8",
-"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCkkv5vaehDr3i8l-xmokxXU3zCul48rTVbg&usqp=CAU"
-},
-{
-"channelName":"Bein Sport4",
-"link": "http://93.152.174.144:4000/play/bein4ar/index.m3u8",
-"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7seB0GBvqmsul6C_sfm_UqNSJtxIRutXBIxopDt2gGCt2cvjUoYuuwPNZ&s=10"
-},
-{
-"channelName":"FITE",
-"link": "https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8",
-"img":"https://www.fite.tv/static/img/home_fite_tw_bg_02.jpg"
-},
-{
-"channelName":"Fightsport",
-"link": "https://shls-fight-sports-ak.akamaized.net:443/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_1.m3u8",
-"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg203DmMHGih6jksCHhZCG4wqBPIWzACsqdA&usqp=CAU"
-},
-{
-"channelName":"Tennis",
-"link": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8",
-"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiyCDCmmO1V87IRk6-p9dINmwDuTmqcKyAcg&usqp=CAU"
-},
-{
-"channelName":"FIght Sport",
-"link": "https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8",
-"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTZA7AGKLVtENn45qStuzKz0Z4Tmnq-NUokQ&usqp=CAU"
-},
-{
 "channelName":"mrtv4",
 "link": "https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",
 "img":"http://static.pyoneplay.com/static/live/li_bg_1571902845.jpg"
@@ -86,10 +45,47 @@
 "img":"http://static.pyoneplay.com/static/live/li_bg_1557296214.jpg"
 },
 {
-"channelName":"Baby TV",
-"link": "https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8",
-"img":"https://i.ytimg.com/vi/30n1rkxk0SQ/maxresdefault.jpg"
+"channelName":"BEIN Sports 1",
+"link": "http://93.152.174.144:4000/play/bein1ar/index.m3u8",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa6RNerKH5LqulRrqTtbakBVFHVColJ7kgLw&usqp=CAU"
 },
+
+{
+"channelName":"Bein Sport2",
+"link": "http://93.152.174.144:4000/play/bein2fr/index.m3u8",
+"img":"https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest/scale-to-width-down/250?cb=20200107203903"
+},
+{
+"channelName":"Bein Sport3",
+"link": "http://93.152.174.144:4000/play/bein3ar/index.m3u8",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCkkv5vaehDr3i8l-xmokxXU3zCul48rTVbg&usqp=CAU"
+},
+{
+"channelName":"Bein Sport4",
+"link": "http://93.152.174.144:4000/play/bein4ar/index.m3u8",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7seB0GBvqmsul6C_sfm_UqNSJtxIRutXBIxopDt2gGCt2cvjUoYuuwPNZ&s=10"
+},
+{
+"channelName":"FITE",
+"link": "https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8",
+"img":"https://www.fite.tv/static/img/home_fite_tw_bg_02.jpg"
+},
+{
+"channelName":"Fightsport",
+"link": "https://shls-fight-sports-ak.akamaized.net:443/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_1.m3u8",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg203DmMHGih6jksCHhZCG4wqBPIWzACsqdA&usqp=CAU"
+},
+{
+"channelName":"Tennis",
+"link": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiyCDCmmO1V87IRk6-p9dINmwDuTmqcKyAcg&usqp=CAU"
+},
+{
+"channelName":"FIght Sport",
+"link": "https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTZA7AGKLVtENn45qStuzKz0Z4Tmnq-NUokQ&usqp=CAU"
+},
+
 {
 "channelName":"Cinemax",
 "link": "http://vips-livecdn.fptplay.net:80/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8",
