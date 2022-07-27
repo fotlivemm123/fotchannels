@@ -105,6 +105,21 @@
 "channelName":"Star World HD",
 "link": "http://221.120.204.4/star-world-LOCKLE/index.m3u8",
 "img":"https://ewsat.com/img/STAR_WORLD.png"
+},
+{
+"channelName":"Sony Ten 1",
+"link": "http://103.139.171.5:5001/jiotvplus/live.php?c=Ten_1&q=800&e=.m3u8",
+"img":"https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest?cb=20190322143617"
+},
+{
+"channelName":"Sony Ten 2",
+"link": "http://103.139.171.5:5001/jiotvplus/live.php?c=Ten_2&q=800&e=.m3u8",
+"img":"https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg/revision/latest?cb=20190322143848"
+},
+{
+"channelName":"Sony Ten 3",
+"link": "http://103.139.171.5:5001/jiotvplus/live.php?c=Ten_3&q=800&e=.m3u8",
+"img":"https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png/revision/latest?cb=20190322144135"
 }
 
 ]
