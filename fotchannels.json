@@ -133,13 +133,13 @@
 },
 {
 "channelName":"BT Sport 1 HD",
-"link": "http://93.152.174.144:4000/play/btsport1/index.m3u8",
+"link": "https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png",
 "img":"http://thutalive.webstarterz.com/thutalive/images/channel/46192_BT 1 HD.png"
 },
 {
 "channelName":"BT Sport 2 HD",
 "link": "http://93.152.174.144:4000/play/btsport2/index.m3u8",
-"img":"http://thutalive.webstarterz.com/thutalive/images/channel/51706_BT sport 2.png"
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd22s--9GPbOlnb5Jq2KJ-6n7o4wPhcTU5gA&usqp=CAU"
 }
 
 ]
