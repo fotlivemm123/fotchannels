@@ -101,9 +101,27 @@
             "img": "https://upload.wikimedia.org/wikipedia/en/6/68/YTV_Logo.png",
             "link": "http://183.89.246.119:8881/play/a081/index.m3u8",
            "rafrri":""
-        }  
+        } 
+
+      
 ]
-  }
+  },
+
+
+   {
+    "type":"Sports",
+    "chs": [
+
+    
+        {
+          
+            "title": "MITV",
+            "img": "https://stitichsports.com/tv/images/small_picture/small_pic352.jpg",
+            "link": "https://webudit.cdndac.lol/lb/premium432/index.m3u8",
+            "rafrri":"https://streamservicehd.click/"
+        }
+    ]
+   }
 
 
   
