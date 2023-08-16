@@ -111,13 +111,7 @@
     "chs": [
 
     
-        {
-          
-            "title": "Real Madrid TV",
-            "img": "https://stitichsports.com/tv/images/small_picture/small_pic501.jpg",
-            "link": "https://webudit.cdndac.lol/lb/premium12/index.m3u8",
-            "rafrri":"https://streamservicehd.click/"
-        },
+
        {
           
             "title": "Man U TV",
@@ -129,60 +123,54 @@
    },
 
   
+
+
+
    {
-    "type":"Sony Ten Sports",
+    "type":"Bein Sports",
     "chs": [
 
     
         {
           
-            "title": "Sony Ten 1",
-            "img": "https://stitichsports.com/tv/images/small_picture/small_pic218.jpg",
-            "link": "https://goko7.pogocast.xyz:8018/view/hls/jrdmdS2T5luXG4Qm0RmnzQ/1691906366/ten1endia.m3u8",
-            "rafrri":"https://pipcast.cc/"
-        },
-      {
-          
-            "title": "Sony Ten 2",
-            "img": "https://stitichsports.com/tv/images/small_picture/small_pic402.jpg",
-            "link": "https://bbm.pogocast.xyz:8018/view/hls/yx5NLNofTlNWwlufqcgr_w/1691906648/ten2endia.m3u8",
-            "rafrri":"https://pipcast.cc/"
-        },
-      {
-          
-            "title": "Sony Ten 3",
-            "img": "https://stitichsports.com/tv/images/small_picture/small_pic403.jpg",
-            "link": "https://bbm.pogocast.xyz:8018/view/hls/BIhLnmBwjstP1FbmQnSNjQ/1691906708/ten3endia.m3u8",
-            "rafrri":"https://pipcast.cc/"
-        }
-    ]
-   },
-
-
-   {
-    "type":"Sky Sports",
-    "chs": [
-
-    
-        {
-          
-            "title": "Sky Main",
-            "img": "https://stitichsports.com/tv/images/small_picture/small_pic394.jpg",
-            "link": "https://webudit.cdndac.lol/lb/premium38/index.m3u8",
+            "title": "Bein Premium 1",
+            "img": "https://stitichsports.com/tv/images/small_picture/small_pic609.jpg",
+            "link": "https://webudit.cdndac.lol/lb/premium98/index.m3u8",
             "rafrri":"https://streamservicehd.click/"
         },
-       {
+          {
           
-            "title": "Sky F1",
-            "img": "https://stitichsports.com/tv/images/small_picture/small_pic328.jpg",
-            "link": "https://webudit.cdndac.lol/lb/premium60/index.m3u8",
+            "title": "NBA TV",
+            "img": "https://stitichsports.com/tv/images/small_picture/small_pic472.jpg",
+            "link": "https://webudit.cdndac.lol/lb/premium404/index.m3u8",
             "rafrri":"https://streamservicehd.click/"
         },
-       {
+          {
           
-            "title": "Sky Action",
-            "img": "https://stitichsports.com/tv/images/small_picture/small_pic475.jpg",
-            "link": "https://webudit.cdndac.lol/lb/premium37/index.m3u8",
+            "title": "ESPN",
+            "img": "https://stitichsports.com/tv/images/small_picture/small_pic200.jpg",
+            "link": "https://webudit.cdndac.lol/lb/premium44/index.m3u8",
+            "rafrri":"https://streamservicehd.click/"
+        },
+          {
+          
+            "title": "USA NETWORK",
+            "img": "https://stitichsports.com/tv/images/small_picture/small_pic746.jpg",
+            "link": "https://webudit.cdndac.lol/lb/premium343/index.m3u8",
+            "rafrri":"https://streamservicehd.click/"
+        },
+          {
+          
+            "title": "FOX 1",
+            "img": "https://stitichsports.com/tv/images/small_picture/small_pic423.jpg",
+            "link": "https://webudit.cdndac.lol/lb/premium39/index.m3u8",
+            "rafrri":"https://streamservicehd.click/"
+        },
+          {
+          
+            "title": "FOX 2",
+            "img": "https://stitichsports.com/tv/images/small_picture/small_pic391.jpg",
+            "link": "https://webudit.cdndac.lol/lb/premium758/index.m3u8",
             "rafrri":"https://streamservicehd.click/"
         }
     ]
