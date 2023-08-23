@@ -107,7 +107,7 @@
 ]
   },
    {
-    "type":"Thai",
+    "type":"Thailand",
     "chs": [
 
      {
@@ -123,6 +123,70 @@
             "title": "Channel 3",
             "img": "https://i.imgur.com/lHbIKfF.png",
             "link": "https://cdn6.goprimetime.info/feed/202306140918/ch3hd3/index.m3u8",
+            "rafrri":""
+        },
+
+       {
+          
+            "title": "Channel 5",
+            "img": "https://i.imgur.com/4MIQNPQ.png",
+            "link": "https://cdn6.goprimetime.info/feed/202306140918/ch5hd3/index.m3u8",
+            "rafrri":""
+        },
+
+       {
+          
+            "title": "True4U",
+            "img": "https://i.imgur.com/tXb8NiE.png",
+            "link": "https://cdn6.goprimetime.info/feed/202306140918/chtrue4u3/index.m3u8",
+            "rafrri":""
+        },
+
+       {
+          
+            "title": "T Sports7",
+            "img": "https://i.imgur.com/hnfiUbK.png",
+            "link": "https://cdn6.goprimetime.info/feed/202306140918/chtsport3/index.m3u8",
+            "rafrri":""
+        },
+
+       {
+          
+            "title": "Channel 7 HD",
+            "img": "https://i.imgur.com/vxnLkTz.png",
+            "link": "https://cdn6.goprimetime.info/feed/202306140918/ch7hd3/index.m3u8",
+            "rafrri":""
+        },
+
+       {
+          
+            "title": "TNN 16",
+            "img": "https://i.imgur.com/mfVhuRC.png",
+            "link": "https://cdn6.goprimetime.info/feed/202306140918/chtnn3/index.m3u8",
+            "rafrri":""
+        },
+
+       {
+          
+            "title": "JKN 18",
+            "img": "https://i.imgur.com/zxgCdl0.png",
+            "link": "https://cdn6.goprimetime.info/feed/202306140918/newtv3/index.m3u8",
+            "rafrri":""
+        },
+
+       {
+          
+            "title": "Nation TV",
+            "img": "https://i.imgur.com/RULAfjb.png",
+            "link": "https://cdn6.goprimetime.info/feed/202306140918/chnation3/index.m3u8",
+            "rafrri":""
+        },
+
+       {
+          
+            "title": "NBT HD",
+            "img": "https://i.imgur.com/50EIb6z.png",
+            "link": "https://cdn6.goprimetime.info/feed/202306140918/chnbt3/index.m3u8",
             "rafrri":""
         }
     ]
