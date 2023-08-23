@@ -206,6 +206,20 @@
             "img": "https://yt3.googleusercontent.com/JMvZzfwbr1WQPqBOWtRcCvd3gg24A1t8k_JWDbANUM_XNAx3P9cZBksl7DUmp8YE1KIegi-SXA=s900-c-k-c0x00ffffff-no-rj",
             "link": "https://ythls.onrender.com/channel/UCj_YP8My20fYnXbe8B0ziUA.m3u8",
             "rafrri":"https://streamservicehd.click/"
+        },
+        {
+          
+            "title": "Cartoon Network",
+            "img": "https://i.ytimg.com/vi/lB3DYvSjv7o/sddefault.jpg",
+            "link": "https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8",
+            "rafrri":"https://streamservicehd.click/"
+        },
+        {
+          
+            "title": "Baby Shark TV",
+            "img": "https://i.ytimg.com/vi/TetI8xAd0ck/maxresdefault.jpg",
+            "link": "https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8",
+            "rafrri":"https://streamservicehd.click/"
         }
     ]
    },
@@ -230,7 +244,7 @@
 
 
    {
-    "type":"Bein Sports",
+    "type":"All Sports",
     "chs": [
 
     
