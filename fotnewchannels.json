@@ -13,5 +13,82 @@
             "img": "https://upload.wikimedia.org/wikipedia/en/f/f1/Logo_of_MITV.png",
             "link": "https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8",
             "rafrri":""
+        },
+        {
+          
+            "title": "VOA",
+            "img": "https://i.imgur.com/ZWo91Vr.jpg",
+            "link": "https://voa-ingest.akamaized.net/hls/live/2033872-b/tvmc05/playlist.m3u8",
+            "rafrri":""
+        },
+        {
+          
+            "title": "Mahar",
+            "img": "https://www.lyngsat.com/logo/tv/mm/mahar_tv_mm.png",
+            "link": "https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8",
+            "rafrri":""
+        },
+        {
+          
+            "title": "MRTV 4",
+            "img": "https://www.lyngsat.com/logo/tv/mm/mrtv_mm_4.png",
+            "link": "https://ppradio.b-cdn.net/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8",
+            "rafrri":""
+        },
+        {
+          
+            "title": "Channel 7",
+            "img": "https://www.lyngsat.com/logo/tv/cc/channel7_mm.png",
+            "link": "https://ppradio.b-cdn.net/LiveApp/streams/GZ7f8XBrt4dI1677679357590.m3u8",
+            "rafrri":""
+        },
+        {
+          
+            "title": "Channel K",
+            "img": "https://www.lyngsat.com/logo/tv/cc/channel-k-mm.png",
+            "link": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8",
+            "rafrri":""
+        },
+        {
+          
+            "title": "MNTV",
+            "img": "https://www.lyngsat.com/logo/tv/mm/mn_tv_mm.png",
+            "link": "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8",
+            "rafrri":""
+        },
+        {
+          
+            "title": "MCS",
+            "img": "https://i.postimg.cc/GpHqMr4y/IMG-20231018-134533.png",
+            "link": "https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8",
+            "rafrri":""
+        },
+        {
+          
+            "title": "MITV",
+            "img": "https://upload.wikimedia.org/wikipedia/en/f/f1/Logo_of_MITV.png",
+            "link": "https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8",
+            "rafrri":""
+        },
+        {
+          
+            "title": "MITV",
+            "img": "https://upload.wikimedia.org/wikipedia/en/f/f1/Logo_of_MITV.png",
+            "link": "https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8",
+            "rafrri":""
+        },
+        {
+          
+            "title": "MITV",
+            "img": "https://upload.wikimedia.org/wikipedia/en/f/f1/Logo_of_MITV.png",
+            "link": "https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8",
+            "rafrri":""
+        },
+        {
+          
+            "title": "Maharbawdi",
+            "img": "https://www.lyngsat.com/logo/tv/mm/mahar_bawdi_tv_mm.png",
+            "link": "https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8",
+            "rafrri":""
         }
  ]
