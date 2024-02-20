@@ -76,6 +76,34 @@
             "img": "https://www.lyngsat.com/logo/tv/ss/sky_net_music.png",
             "link": "https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8",
             "rafrri":""
+        } ,
+        {
+          
+            "title": "Fortune HD",
+            "img": "https://www.lyngsat.com/logo/tv/ff/fortune-tv-mm.png",
+            "link": "http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8",
+            "rafrri":""
+        },
+        {
+          
+            "title": "5 Plus",
+            "img": "https://www.lyngsat.com/logo/tv/num/5-plus-mm.png",
+            "link": "https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w1869259503.m3u8",
+            "rafrri":""
+        },
+        {
+          
+            "title": "Channel 9",
+            "img": "https://www.lyngsat.com/logo/tv/cc/channel_9_mm.png",
+            "link": "http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFXr0FXBNP_JZby0a9H55N0/ts",
+            "rafrri":""
+        },
+        {
+          
+            "title": "World Movies (M-Sub)",
+            "img": "https://www.lyngsat.com/logo/tv/ss/sky_net_world_movies.png",
+            "link": "http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKohGY6XBKesLwunXKtf2HE/ts",
+            "rafrri":""
         }
        
  ]
