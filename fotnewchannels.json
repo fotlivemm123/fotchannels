@@ -1,12 +1,12 @@
  [
-
-        {
+ {
           
-            "title": "မနက်ခင်း မေတ္တာပို့ ဓမ္မတေး (မူရင်း)",
-            "img": "https://i.ytimg.com/vi/H3zAMhE4vPs/hqdefault.jpg",
-            "link": "https://github.com/fotlivemm123/fotchannels/raw/main/%E1%80%99%E1%80%94%E1%80%80%E1%80%BA%E1%80%81%E1%80%84%E1%80%BA%E1%80%B8%20%E1%80%99%E1%80%B1%E1%80%90%E1%80%B9%E1%80%90%E1%80%AC%E1%80%95%E1%80%AD%E1%80%AF%E1%80%B7%20%E1%80%93%E1%80%99%E1%80%B9%E1%80%99%E1%80%90%E1%80%B1%E1%80%B8%20(%E1%80%99%E1%80%B0%E1%80%9B%E1%80%84%E1%80%BA%E1%80%B8)%20%E1%81%8A%20%40DhammaNote%20Channel%20%E1%80%90%E1%80%BD%E1%80%84%E1%80%BA%20%E1%80%97%E1%80%9F%E1%80%AF%E1%80%9E%E1%80%AF%E1%80%90%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8%E1%80%80%E1%80%AD%E1%80%AF%20%E1%80%94%E1%80%B1%E1%80%B7%E1%80%85%E1%80%89%E1%80%BA%E1%80%90%E1%80%84%E1%80%BA%E1%80%95%E1%80%B1%E1%80%B8%E1%80%94%E1%80%B1%E1%80%9E%E1%80%8A%E1%80%BA.mp4",
+            "title": "Maharbawdi",
+            "img": "https://www.lyngsat.com/logo/tv/mm/mahar_bawdi_tv_mm.png",
+            "link": "https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8",
             "rafrri":""
         },
+    
         {
           
             "title": "MITV",
@@ -65,30 +65,24 @@
         },
         {
           
-            "title": "Mrtv4",
-            "img": "https://upload.wikimedia.org/wikipedia/en/f/f1/Logo_of_MITV.png",
-            "link": "https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8",
+            "title": "MVM",
+            "img": "https://www.lyngsat.com/logo/tv/mm/mvm-th-mm.png",
+            "link": "https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8",
             "rafrri":""
         },
         {
           
-            "title": "Channel7",
-            "img": "https://upload.wikimedia.org/wikipedia/en/f/f1/Logo_of_MITV.png",
-            "link": "https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8",
+            "title": "TVM",
+            "img": "https://www.lyngsat.com/logo/tv/tt/tvm-mm.png",
+            "link": "http://203.81.84.130/hls/mwd_serie/index.m3u8",
             "rafrri":""
         },
         {
           
-            "title": "Maharbawhdi",
-            "img": "https://upload.wikimedia.org/wikipedia/en/f/f1/Logo_of_MITV.png",
-            "link": "https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8",
-            "rafrri":""
-        },
-        {
-          
-            "title": "Maharbawdi",
-            "img": "https://www.lyngsat.com/logo/tv/mm/mahar_bawdi_tv_mm.png",
-            "link": "https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8",
+            "title": "Myanmar Channel",
+            "img": "https://www.lyngsat.com/logo/tv/gg/golden-land-mm.png",
+            "link": "http://203.81.84.130/hls/mwd_document/index.m3u8",
             "rafrri":""
         }
+       
  ]
