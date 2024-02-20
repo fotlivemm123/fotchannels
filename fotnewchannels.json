@@ -72,16 +72,9 @@
         },
         {
           
-            "title": "TVM",
-            "img": "https://www.lyngsat.com/logo/tv/tt/tvm-mm.png",
-            "link": "http://203.81.84.130/hls/mwd_serie/index.m3u8",
-            "rafrri":""
-        },
-        {
-          
-            "title": "Myanmar Channel",
-            "img": "https://www.lyngsat.com/logo/tv/gg/golden-land-mm.png",
-            "link": "http://203.81.84.130/hls/mwd_document/index.m3u8",
+            "title": "Myanmar Music",
+            "img": "https://www.lyngsat.com/logo/tv/ss/sky_net_music.png",
+            "link": "https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8",
             "rafrri":""
         }
        
